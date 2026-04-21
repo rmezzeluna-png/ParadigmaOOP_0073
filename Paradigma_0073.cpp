@@ -15,4 +15,6 @@ class Mahasiswa{
 
 int main(){
     Mahasiswa mhs1;
+
+    mhs1.nim = 073;
 }

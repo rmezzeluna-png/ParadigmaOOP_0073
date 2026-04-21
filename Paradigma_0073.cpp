@@ -17,4 +17,7 @@ int main(){
     Mahasiswa mhs1;
 
     mhs1.nim = 073;
+    mhs1.nama = "revan ganteng";
+    mhs1.nilai = 100;
+    mhs1.printData();
 }
